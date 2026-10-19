@@ -1,1 +1,1 @@
-# ZarzProjektem-Niebrzydowski
+# Zarządzanie Projektem Informatycznym
